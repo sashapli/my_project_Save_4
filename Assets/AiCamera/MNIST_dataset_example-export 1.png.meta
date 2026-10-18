@@ -1,0 +1,4547 @@
+fileFormatVersion: 2
+guid: 6cd0bcde35642714a99402885603cccd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490a6d0e26291424db2d1d57a740627e
+      internalID: 1814974989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 252
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647a95bfe6e347f4b90467cdfa340c1d
+      internalID: 1663067792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 252
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d98aa2dda887749a9d9f1d28cd01fb
+      internalID: 469668317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 252
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0228d55ced4023b4ba5d1c95a559427e
+      internalID: 1172971955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 252
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afde641ba55ed449848d9e78917bfc5
+      internalID: 1501209961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 252
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa9a1342fc18274b9e1b7e325ad8733
+      internalID: -1843614260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 252
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002a2b21c3cb8c7459575a6bca69a9d7
+      internalID: -1234950679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 252
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8744deadfb5cf49af666f05989b44e
+      internalID: 610010861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 252
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56aef9352e1a2584f8f6b513a40d845a
+      internalID: -1549426174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_9
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 252
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498a58de7e84b0e49b5f304461678b68
+      internalID: -1870867152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 252
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062eb73cce7ba5741be320b36dd63c01
+      internalID: 222598943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_11
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 252
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38484e92da398e42b3a9cc15817e9d9
+      internalID: -266051910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 252
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52750379f4cad9b40a8f03e40eea9736
+      internalID: 695617182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_13
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 252
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bfbfb8c8db56c42ba7c448b374e16e
+      internalID: -800196675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_14
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 252
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0bcae1a40d7a843a153dce9d6495c2
+      internalID: 1806743772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 252
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b538a53d21ff7d94da81eae79e9a17ef
+      internalID: 1137058397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 252
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6394e30bedecc7e4c985f44bcb748ee7
+      internalID: 207402480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_17
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 252
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ec8990dbda58643a3a909cc7b4d688
+      internalID: -1481280833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_18
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 252
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1847c93307f727343a4163b622e62efc
+      internalID: 1928058640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_19
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 252
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0d3b53c65c409499e972f83f88962d
+      internalID: 832166850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c381a410c9c256b4f8976d2ad31214bf
+      internalID: 1913148398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_21
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 224
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bd847072661244e91458a31a197a2f
+      internalID: 2105151774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_22
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 224
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d204684eb278a45b4f028b1ba46388
+      internalID: -582071306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_23
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 224
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcb526765c86044fae37ec2f46e3c13
+      internalID: 1567896057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3ad7a8c8020a644970672f443ed12d
+      internalID: 1460967265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_25
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 224
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c17c748f871d747bc7f493d6b34aad
+      internalID: 1730686346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_26
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 224
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db66283502fe6164a9b5e3c682127c0e
+      internalID: 767991643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_27
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 224
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa500057905b664587c03f7203ff2eb
+      internalID: 376205658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7be7bd14528fd540a46c55c585dee05
+      internalID: -390818905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_29
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 224
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608c044aaa6cf79488e043c894908410
+      internalID: -1540543451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_30
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 224
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf1fce4047c7614e99c11b709f76b5f
+      internalID: 1958460138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_31
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 224
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5bb2b83210cd14ead9a9f760b71316
+      internalID: -496441174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_32
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 224
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1400529b61e09a841a57b1ade31bd302
+      internalID: 1664454936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_33
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 224
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e498f85a192cdd4f99dd99a078a2e11
+      internalID: -951882992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_34
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 224
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda24871bfe97ca45ad7b4490ed68a71
+      internalID: 496045459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_35
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 224
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab7b967cb7f0174eb609e840269eefa
+      internalID: -76392683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_36
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1078759f7ba9cd4aa47ff57a1c837e4
+      internalID: -546786087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_37
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 224
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa744a285f01f94aa8e25876ca36770
+      internalID: 1920240373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_38
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 224
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c449d728af3d144a4208c8a0e4e413
+      internalID: -344749863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_39
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 224
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12ba135ca5d1cf4a82ba9adf8b56ece
+      internalID: 2026281066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200733ad27319034f8f25f5865b7576f
+      internalID: 251867597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_41
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 196
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5432ebb0f67500b42ae9d2401e3c379b
+      internalID: -355605947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_42
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 196
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa935e112eca7d942b52526c9d292eca
+      internalID: 1435129747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_43
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 196
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db9ee404a31738478ee1bd8a7eb5d53
+      internalID: 1766410955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 196
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a278a57b9a7ba14ead700a51166ed5b
+      internalID: 222199745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_45
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 196
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9eba17087643654db07159465c24bab
+      internalID: 399431676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_46
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 196
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648e542df74cd2141874033a81533e68
+      internalID: 1224794644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_47
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 196
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571ca6610a524a1428b33367cdaeae70
+      internalID: -157073329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_48
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 196
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d806c8fe067a7a6479fe3ccb1243cedd
+      internalID: -1158597733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_49
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 196
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e885623581b25eb4dae1de8343f994fa
+      internalID: -228932085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_50
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 196
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d43f40b480028042a2cdf63adf0de6d
+      internalID: -1261043999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_51
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 196
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c5f19dc261e61419fe8666054b0bdf
+      internalID: -1679041498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_52
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 196
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dda2850d5ce896409b14985675870b2
+      internalID: -2013509677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_53
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 196
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb3557577e50bd44856586a0953aaa1
+      internalID: -2082204108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_54
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 196
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5124afee1ac3de498d9ddf4f49dad30
+      internalID: -1548495778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_55
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 196
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef63dbfb63e36d64494549cf682265b6
+      internalID: 1422114738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_56
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 196
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ccd98c96357ae48b177f57edef5b7c
+      internalID: 823351769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_57
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 196
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d20a1a2f86025e4792946036749431a
+      internalID: 844142453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_58
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 196
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba65bd4c2bfc0a4b8c0031e0563cfb0
+      internalID: -1623433415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_59
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 196
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347ae2975f3ddcb40b22373b97c4a493
+      internalID: -1509182997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d50b749f9a050a4db9960a9a4691442
+      internalID: 233049260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_61
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 168
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4b24e22a4b400478ee4e62349205ae
+      internalID: 1886119998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_62
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 168
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901777cc35f3f5a4d96916539bb1c168
+      internalID: 1346180974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_63
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 168
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea82e21c0a3c8d4db2b117b7032013c
+      internalID: -1761033944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_64
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 168
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6b3abec23a496458a059fb3bdf450b
+      internalID: -796343160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_65
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 168
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aea968f941ca4643a8e389f33320581
+      internalID: 407029026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_66
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 168
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0695c923ccb2dd84f8de3589c4dd3371
+      internalID: -1057095205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_67
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 168
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027bcf2b7df4aad4b94c9f843d66d2fb
+      internalID: 1938342147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_68
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 168
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1539495c10d5f343974f1710931d56b
+      internalID: -1509461862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_69
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 168
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cdd7d26401b9d4391ed8343b22ad2e
+      internalID: 1362533381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_70
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 168
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c7abe954476ff42b72153927b07f21
+      internalID: 2135311618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_71
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 168
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87aba5caa30879f4e9ac5f1fe96afd15
+      internalID: -321482934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_72
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 168
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dcca687a0f33744b757cd1fa85bb62
+      internalID: 285943835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_73
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 168
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c620b202beccda64eb1e336bec9444b6
+      internalID: -569149217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_74
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 168
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e609bfc41263624581c7978d2c9401a
+      internalID: -1755377864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_75
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 168
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253d23367e509d84c8c15d6e829c1d8c
+      internalID: 582225289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 168
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb7901e1a482e445a2c90b281534bb1
+      internalID: 871973335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_77
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 168
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b456c2f97d37d45871ffc535fdc05d
+      internalID: -281965940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_78
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 168
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a5293f487613541a920fbb6574d3ce
+      internalID: -1863967703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_79
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 168
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2ce62703fb69d428f2a8a762e3915a
+      internalID: 1354780987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2f8bba847e97c469e4fb0d24f9915d
+      internalID: -1414799479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_81
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 140
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35108a3668dc7604aa61c3776c0b57e5
+      internalID: -611987667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_82
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 140
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02abbb4575f7b7240bee1474960e9b75
+      internalID: -492649834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_83
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 140
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285c4619489ab784aa3b385bb97646f1
+      internalID: 208041383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_84
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 140
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e3e83c29108f648b7731a58761009c
+      internalID: 1858470276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_85
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 140
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c5d721a225a304088b4a0d6595bc1b
+      internalID: -551269294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_86
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 140
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738bfa5a6eff2ba4b809cf05394be645
+      internalID: 602811977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_87
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 140
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1972cbc0a0a2c1c47bf8764a08848b46
+      internalID: 143613612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_88
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 140
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c0eb0437a32dd40b75d364ee6872d0
+      internalID: -1566534581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_89
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 140
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad5d2b21cd5d304785ab2970ea5b26b
+      internalID: -928845089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_90
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 140
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abc30950079b0d42a79aebb0d5a73b6
+      internalID: -739692097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_91
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 140
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cc9663564922645b0fabeb540a3d6d
+      internalID: -232506062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_92
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 140
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0402924f17f25ba4681d6f1332d4de11
+      internalID: -571256420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_93
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 140
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4060a299d7671b46b121a9e10ccec80
+      internalID: 143284688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_94
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 140
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31ff2b4d3cbab846863c6b1943a084a
+      internalID: -313046708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_95
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 140
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f902fffed08e5a4081d41bf6594ff6c
+      internalID: 1071310801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_96
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 140
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2deb75ba2b5bc429ed31b304cbe08f
+      internalID: 280611712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_97
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 140
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc62333e6a22b14294e8b959dda79b5
+      internalID: 1058986338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_98
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 140
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74c170b87d496f42ab7d221abba7a79
+      internalID: -693223846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_99
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 140
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b4ed727c2159b4eb51f36e57aeeb0e
+      internalID: 335720155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b3aa6b4099a8b4ea2344d8e4d5b97c
+      internalID: -1165644730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_101
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 112
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357dbfccb3468f045a7192b2e456e536
+      internalID: -1927690069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_102
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 112
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026c9c66815204d41abf36fd346dcc79
+      internalID: 1432211558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_103
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 112
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac764377926fa24ebf7237fc1c318e5
+      internalID: 168595309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_104
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0152ba10de766d34bb45907a53cd511d
+      internalID: 920647823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_105
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 112
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2dd7134d6b80a4ba3c071ae8b4a9e5
+      internalID: 1500577316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_106
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 112
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dec952d2e695dd41a9920be17774665
+      internalID: 229461918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_107
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 112
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b92e931ac825d54d8e484d95d419881
+      internalID: -2052579371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_108
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae358bd23400ce45b001a550999544e
+      internalID: 199895782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_109
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 112
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc9e7e85a4a01b44a08ee9d3edf0fcf
+      internalID: 596927571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_110
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 112
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd75fb706151a641ad2ea51b0c51981
+      internalID: -817232761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_111
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 112
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f126d37a5c5cd4fa853a9fd42bb667
+      internalID: -888986222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_112
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 112
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fffcb28df34a4d4abf60638786a4b71
+      internalID: -778705293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_113
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 112
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c8583801d72e7469eb8f960e76eae4
+      internalID: 1896423913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_114
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 112
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a01626b7e93254da70503112504858
+      internalID: -1251552817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_115
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 112
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a3ee887aa7fb5458fd6c068272cea9
+      internalID: -1713384626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_116
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 112
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dbed4e7db61dc4a8581b5ab3c8dbc2
+      internalID: -1537942010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_117
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 112
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508101dfe4123b64da64cdaf9e435972
+      internalID: -667795585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_118
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 112
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a95106a159da04f8ae6fdbd47bad95
+      internalID: -481500802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_119
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 112
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca380dd03006f840bb15991e1873900
+      internalID: -339271121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2059f3d19e54b42869bf92bc2b0358
+      internalID: -1855454150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_121
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 84
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399222334b7d00e4a8a5697c511b304c
+      internalID: -439793636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_122
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 84
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0039f09dca591634894e08161d415050
+      internalID: -1476754683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_123
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 84
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ccad5ee7128184a81732a1bcfbe7f7
+      internalID: 1181169379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_124
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 84
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e097656f140d87f4e94ed7005799e57f
+      internalID: -1384828572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_125
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 84
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4abc0de167a914f934243904edbf35
+      internalID: -1517266089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_126
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 84
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665169be04f0a764fa1b3595506994a2
+      internalID: -307494560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_127
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 84
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929d6ac630ae54b4aace93d1e25fda23
+      internalID: 1682313098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_128
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 84
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0512ebca1acf8af4ebd7a0676d5619a1
+      internalID: 1800688049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_129
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 84
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf163d42b59a5544c90f24ed5003384e
+      internalID: 1674224877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_130
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 84
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fd23d161b17e64594f6741d3d73047
+      internalID: -983390284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_131
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 84
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8616a537e13036e429a0007838507018
+      internalID: -639986209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_132
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 84
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f2d3a405f0e0f459d6b6fc3db4e785
+      internalID: 799297435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_133
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 84
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b882b29e89c59bb4d84fae1b3dd61232
+      internalID: -916026051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_134
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 84
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a1d47bac0ca06459b420e095120532
+      internalID: 2013011538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_135
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 84
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b848e58682c92ac4ca1981503da86f79
+      internalID: 1815353400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_136
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 84
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5bb78f59c0dc542aba9531f72f6242
+      internalID: -1410567413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_137
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 84
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5198ef1e78a8147b9f1e2397f9bbfd
+      internalID: -1485558863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_138
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 84
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef72cbe2db8afe44b26bcd6af64e055
+      internalID: 662004864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_139
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 84
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2f50fd90b69274ab12758c9c16c93b
+      internalID: -1300690936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d8abc69cf9a774b948abe3f9554a40
+      internalID: 775563213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_141
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 56
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6f5cc9e7301684e81d265a750e84ad
+      internalID: 552379690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_142
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18042b465906b7f49a0e24db8a187567
+      internalID: 1809043701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_143
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 56
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3273049b73b5604b9f5f24272cb4220
+      internalID: 1959739677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_144
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c782f62a062d04a40bc5e28f456ceecd
+      internalID: -1239950008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_145
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 56
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4660d6c1ba35a1f47b2b9f9272eecf91
+      internalID: -233686381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_146
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 56
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258afff8397e77447938f132a25d7851
+      internalID: -376513312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_147
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 56
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c17d034d9cffae4e85b841af6901b4e
+      internalID: 1561065237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_148
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 56
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a64e5f649e453d49be4832f186fb61d
+      internalID: -1507532402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_149
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 56
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5f9b71d61f0034cb2f07cb848392c1
+      internalID: -825020117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_150
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 56
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443380f63887e0b4d80eaf89156ff205
+      internalID: -522769249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_151
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 56
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad48f847fdf195409c8efac9af9f723
+      internalID: 1964212533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_152
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 56
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a5d54cd036d7e47bad3c50efb6415d
+      internalID: -254457142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_153
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 56
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0fcee038efb704791713cb989597d6
+      internalID: 972092622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_154
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 56
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c392b6618319c43a99bd3f7130ab92
+      internalID: 1643106121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_155
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 56
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3717cbeb3da7f454aafa070896cea966
+      internalID: 1261769967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_156
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 56
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8af3cb689ec11746bb0835e3a9d1db1
+      internalID: -1249930260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_157
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 56
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1896009ba813c9946ba24e82305b627c
+      internalID: -1917788278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_158
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 56
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2716e0d8568f9c3419c16a8e1bfc2ff4
+      internalID: -1088848645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_159
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 56
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cb5a6ac187f3f41a1398f553768ad8
+      internalID: 1542081091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b11763955a2f5499a2b9342b220648
+      internalID: 357728222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_161
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 28
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3db7d779a8bc8e4c948f3f432c41471
+      internalID: 763248981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_162
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 28
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb433d3e36ebf54eb3304048950518e
+      internalID: -1822227017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_163
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 28
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7b40a6dc59c464d93e461490167a9f
+      internalID: 1432781034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_164
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 28
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795156f94b670cd4ba2f0e5f83f2221a
+      internalID: 189853920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_165
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 28
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238f94d99bbf84246b8da9b8def35a38
+      internalID: -928309952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_166
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 28
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2576a2e84147b3f4aacda473e2ea73d1
+      internalID: 1336767794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_167
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 28
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bf6628493594948a80b5aec67663a9
+      internalID: 52858709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_168
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 28
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e91c097bd1a484486ab2ef7be0fc1d
+      internalID: 1144775090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_169
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 28
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a41dd3891918fb4894c60c4dd1a8fad
+      internalID: 1233138140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_170
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 28
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5614a3e303dd2f4da59c951da8c1122
+      internalID: -597704224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_171
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 28
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bebf50171b59f41a7232b93799cab6
+      internalID: 1097433134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_172
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 28
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1960403c2ec87814c9664cd743ee19dd
+      internalID: -87207977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_173
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 28
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf89ff15103fa584b8b094ee15b754db
+      internalID: 354098091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_174
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 28
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0460f432d1133744bfb06f87293c34c
+      internalID: 1129679741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_175
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 28
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9b61bb33e8c5d42ade6c81028681a3
+      internalID: -792569341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_176
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 28
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7c33701fd00f54d97525ab4f7aafcf
+      internalID: -1171737834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_177
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 28
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767fe64f19d4d894fb46ba220c3ff265
+      internalID: -17246023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_178
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 28
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675b526a2176b17408d93eea615a3f1e
+      internalID: -420588198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_179
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 28
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6688dbd47f5e2449425f8a1c599731
+      internalID: -1034136216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f2b8bfbaebdd94994196531b362078
+      internalID: -1231484456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_181
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdba859940f476e4d886b703ba53502d
+      internalID: -661270267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_182
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb419b8bc89d9a349bb31ca8bb30ce17
+      internalID: -840273491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_183
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850d948500ab9b644936f11897bccdbe
+      internalID: -1224028315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_184
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364462fae9fd1104eaf644bf018b4ae0
+      internalID: 1189765375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_185
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57cf94e3511b144fa805e4a74b923bd
+      internalID: 303666657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_186
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11ee6d5cf6c68a438a4ed39a8f14a0b
+      internalID: -2049441289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_187
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f814839fbd20742929e3074a1450b0
+      internalID: -133701170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_188
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2ebeb912dca004c9715ac6552a9706
+      internalID: -1238757513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_189
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b359220d8be6abb4a9088e098389abd9
+      internalID: -1997213771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_190
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0fe68cd673a754aaae4596b38f33ad
+      internalID: -1547110820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_191
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2451ef6f6ead2034899895b2d4087923
+      internalID: -1368113079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_192
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5d81309944c6d45b3037743d28d1ef
+      internalID: 341072270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_193
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3777c3f5d154343bdb10fc37295d11
+      internalID: -885891712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_194
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424b28aaadda8a141b290e85c95a3b1e
+      internalID: -242732473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_195
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa19741c4966244ab797799c6f4038f
+      internalID: 880504612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_196
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de78c0b8aa70d1448b8bf7dc027fa837
+      internalID: 1416393043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_197
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c591982c4940c4fa7eb6adc43c71ee
+      internalID: 609042248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_198
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c9a9f8aed53484ab82e0138bd8ae94
+      internalID: -1822147744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MNIST_dataset_example-export 1_199
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6192363c8516804a9af3526c702d722
+      internalID: -1885399330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MNIST_dataset_example-export 1_0: 1814974989
+      MNIST_dataset_example-export 1_1: 1663067792
+      MNIST_dataset_example-export 1_10: 222598943
+      MNIST_dataset_example-export 1_100: -1165644730
+      MNIST_dataset_example-export 1_101: -1927690069
+      MNIST_dataset_example-export 1_102: 1432211558
+      MNIST_dataset_example-export 1_103: 168595309
+      MNIST_dataset_example-export 1_104: 920647823
+      MNIST_dataset_example-export 1_105: 1500577316
+      MNIST_dataset_example-export 1_106: 229461918
+      MNIST_dataset_example-export 1_107: -2052579371
+      MNIST_dataset_example-export 1_108: 199895782
+      MNIST_dataset_example-export 1_109: 596927571
+      MNIST_dataset_example-export 1_11: -266051910
+      MNIST_dataset_example-export 1_110: -817232761
+      MNIST_dataset_example-export 1_111: -888986222
+      MNIST_dataset_example-export 1_112: -778705293
+      MNIST_dataset_example-export 1_113: 1896423913
+      MNIST_dataset_example-export 1_114: -1251552817
+      MNIST_dataset_example-export 1_115: -1713384626
+      MNIST_dataset_example-export 1_116: -1537942010
+      MNIST_dataset_example-export 1_117: -667795585
+      MNIST_dataset_example-export 1_118: -481500802
+      MNIST_dataset_example-export 1_119: -339271121
+      MNIST_dataset_example-export 1_12: 695617182
+      MNIST_dataset_example-export 1_120: -1855454150
+      MNIST_dataset_example-export 1_121: -439793636
+      MNIST_dataset_example-export 1_122: -1476754683
+      MNIST_dataset_example-export 1_123: 1181169379
+      MNIST_dataset_example-export 1_124: -1384828572
+      MNIST_dataset_example-export 1_125: -1517266089
+      MNIST_dataset_example-export 1_126: -307494560
+      MNIST_dataset_example-export 1_127: 1682313098
+      MNIST_dataset_example-export 1_128: 1800688049
+      MNIST_dataset_example-export 1_129: 1674224877
+      MNIST_dataset_example-export 1_13: -800196675
+      MNIST_dataset_example-export 1_130: -983390284
+      MNIST_dataset_example-export 1_131: -639986209
+      MNIST_dataset_example-export 1_132: 799297435
+      MNIST_dataset_example-export 1_133: -916026051
+      MNIST_dataset_example-export 1_134: 2013011538
+      MNIST_dataset_example-export 1_135: 1815353400
+      MNIST_dataset_example-export 1_136: -1410567413
+      MNIST_dataset_example-export 1_137: -1485558863
+      MNIST_dataset_example-export 1_138: 662004864
+      MNIST_dataset_example-export 1_139: -1300690936
+      MNIST_dataset_example-export 1_14: 1806743772
+      MNIST_dataset_example-export 1_140: 775563213
+      MNIST_dataset_example-export 1_141: 552379690
+      MNIST_dataset_example-export 1_142: 1809043701
+      MNIST_dataset_example-export 1_143: 1959739677
+      MNIST_dataset_example-export 1_144: -1239950008
+      MNIST_dataset_example-export 1_145: -233686381
+      MNIST_dataset_example-export 1_146: -376513312
+      MNIST_dataset_example-export 1_147: 1561065237
+      MNIST_dataset_example-export 1_148: -1507532402
+      MNIST_dataset_example-export 1_149: -825020117
+      MNIST_dataset_example-export 1_15: 1137058397
+      MNIST_dataset_example-export 1_150: -522769249
+      MNIST_dataset_example-export 1_151: 1964212533
+      MNIST_dataset_example-export 1_152: -254457142
+      MNIST_dataset_example-export 1_153: 972092622
+      MNIST_dataset_example-export 1_154: 1643106121
+      MNIST_dataset_example-export 1_155: 1261769967
+      MNIST_dataset_example-export 1_156: -1249930260
+      MNIST_dataset_example-export 1_157: -1917788278
+      MNIST_dataset_example-export 1_158: -1088848645
+      MNIST_dataset_example-export 1_159: 1542081091
+      MNIST_dataset_example-export 1_16: 207402480
+      MNIST_dataset_example-export 1_160: 357728222
+      MNIST_dataset_example-export 1_161: 763248981
+      MNIST_dataset_example-export 1_162: -1822227017
+      MNIST_dataset_example-export 1_163: 1432781034
+      MNIST_dataset_example-export 1_164: 189853920
+      MNIST_dataset_example-export 1_165: -928309952
+      MNIST_dataset_example-export 1_166: 1336767794
+      MNIST_dataset_example-export 1_167: 52858709
+      MNIST_dataset_example-export 1_168: 1144775090
+      MNIST_dataset_example-export 1_169: 1233138140
+      MNIST_dataset_example-export 1_17: -1481280833
+      MNIST_dataset_example-export 1_170: -597704224
+      MNIST_dataset_example-export 1_171: 1097433134
+      MNIST_dataset_example-export 1_172: -87207977
+      MNIST_dataset_example-export 1_173: 354098091
+      MNIST_dataset_example-export 1_174: 1129679741
+      MNIST_dataset_example-export 1_175: -792569341
+      MNIST_dataset_example-export 1_176: -1171737834
+      MNIST_dataset_example-export 1_177: -17246023
+      MNIST_dataset_example-export 1_178: -420588198
+      MNIST_dataset_example-export 1_179: -1034136216
+      MNIST_dataset_example-export 1_18: 1928058640
+      MNIST_dataset_example-export 1_180: -1231484456
+      MNIST_dataset_example-export 1_181: -661270267
+      MNIST_dataset_example-export 1_182: -840273491
+      MNIST_dataset_example-export 1_183: -1224028315
+      MNIST_dataset_example-export 1_184: 1189765375
+      MNIST_dataset_example-export 1_185: 303666657
+      MNIST_dataset_example-export 1_186: -2049441289
+      MNIST_dataset_example-export 1_187: -133701170
+      MNIST_dataset_example-export 1_188: -1238757513
+      MNIST_dataset_example-export 1_189: -1997213771
+      MNIST_dataset_example-export 1_19: 832166850
+      MNIST_dataset_example-export 1_190: -1547110820
+      MNIST_dataset_example-export 1_191: -1368113079
+      MNIST_dataset_example-export 1_192: 341072270
+      MNIST_dataset_example-export 1_193: -885891712
+      MNIST_dataset_example-export 1_194: -242732473
+      MNIST_dataset_example-export 1_195: 880504612
+      MNIST_dataset_example-export 1_196: 1416393043
+      MNIST_dataset_example-export 1_197: 609042248
+      MNIST_dataset_example-export 1_198: -1822147744
+      MNIST_dataset_example-export 1_199: -1885399330
+      MNIST_dataset_example-export 1_2: 469668317
+      MNIST_dataset_example-export 1_20: 1913148398
+      MNIST_dataset_example-export 1_21: 2105151774
+      MNIST_dataset_example-export 1_22: -582071306
+      MNIST_dataset_example-export 1_23: 1567896057
+      MNIST_dataset_example-export 1_24: 1460967265
+      MNIST_dataset_example-export 1_25: 1730686346
+      MNIST_dataset_example-export 1_26: 767991643
+      MNIST_dataset_example-export 1_27: 376205658
+      MNIST_dataset_example-export 1_28: -390818905
+      MNIST_dataset_example-export 1_29: -1540543451
+      MNIST_dataset_example-export 1_3: 1172971955
+      MNIST_dataset_example-export 1_30: 1958460138
+      MNIST_dataset_example-export 1_31: -496441174
+      MNIST_dataset_example-export 1_32: 1664454936
+      MNIST_dataset_example-export 1_33: -951882992
+      MNIST_dataset_example-export 1_34: 496045459
+      MNIST_dataset_example-export 1_35: -76392683
+      MNIST_dataset_example-export 1_36: -546786087
+      MNIST_dataset_example-export 1_37: 1920240373
+      MNIST_dataset_example-export 1_38: -344749863
+      MNIST_dataset_example-export 1_39: 2026281066
+      MNIST_dataset_example-export 1_4: 1501209961
+      MNIST_dataset_example-export 1_40: 251867597
+      MNIST_dataset_example-export 1_41: -355605947
+      MNIST_dataset_example-export 1_42: 1435129747
+      MNIST_dataset_example-export 1_43: 1766410955
+      MNIST_dataset_example-export 1_44: 222199745
+      MNIST_dataset_example-export 1_45: 399431676
+      MNIST_dataset_example-export 1_46: 1224794644
+      MNIST_dataset_example-export 1_47: -157073329
+      MNIST_dataset_example-export 1_48: -1158597733
+      MNIST_dataset_example-export 1_49: -228932085
+      MNIST_dataset_example-export 1_5: -1843614260
+      MNIST_dataset_example-export 1_50: -1261043999
+      MNIST_dataset_example-export 1_51: -1679041498
+      MNIST_dataset_example-export 1_52: -2013509677
+      MNIST_dataset_example-export 1_53: -2082204108
+      MNIST_dataset_example-export 1_54: -1548495778
+      MNIST_dataset_example-export 1_55: 1422114738
+      MNIST_dataset_example-export 1_56: 823351769
+      MNIST_dataset_example-export 1_57: 844142453
+      MNIST_dataset_example-export 1_58: -1623433415
+      MNIST_dataset_example-export 1_59: -1509182997
+      MNIST_dataset_example-export 1_6: -1234950679
+      MNIST_dataset_example-export 1_60: 233049260
+      MNIST_dataset_example-export 1_61: 1886119998
+      MNIST_dataset_example-export 1_62: 1346180974
+      MNIST_dataset_example-export 1_63: -1761033944
+      MNIST_dataset_example-export 1_64: -796343160
+      MNIST_dataset_example-export 1_65: 407029026
+      MNIST_dataset_example-export 1_66: -1057095205
+      MNIST_dataset_example-export 1_67: 1938342147
+      MNIST_dataset_example-export 1_68: -1509461862
+      MNIST_dataset_example-export 1_69: 1362533381
+      MNIST_dataset_example-export 1_7: 610010861
+      MNIST_dataset_example-export 1_70: 2135311618
+      MNIST_dataset_example-export 1_71: -321482934
+      MNIST_dataset_example-export 1_72: 285943835
+      MNIST_dataset_example-export 1_73: -569149217
+      MNIST_dataset_example-export 1_74: -1755377864
+      MNIST_dataset_example-export 1_75: 582225289
+      MNIST_dataset_example-export 1_76: 871973335
+      MNIST_dataset_example-export 1_77: -281965940
+      MNIST_dataset_example-export 1_78: -1863967703
+      MNIST_dataset_example-export 1_79: 1354780987
+      MNIST_dataset_example-export 1_8: -1549426174
+      MNIST_dataset_example-export 1_80: -1414799479
+      MNIST_dataset_example-export 1_81: -611987667
+      MNIST_dataset_example-export 1_82: -492649834
+      MNIST_dataset_example-export 1_83: 208041383
+      MNIST_dataset_example-export 1_84: 1858470276
+      MNIST_dataset_example-export 1_85: -551269294
+      MNIST_dataset_example-export 1_86: 602811977
+      MNIST_dataset_example-export 1_87: 143613612
+      MNIST_dataset_example-export 1_88: -1566534581
+      MNIST_dataset_example-export 1_89: -928845089
+      MNIST_dataset_example-export 1_9: -1870867152
+      MNIST_dataset_example-export 1_90: -739692097
+      MNIST_dataset_example-export 1_91: -232506062
+      MNIST_dataset_example-export 1_92: -571256420
+      MNIST_dataset_example-export 1_93: 143284688
+      MNIST_dataset_example-export 1_94: -313046708
+      MNIST_dataset_example-export 1_95: 1071310801
+      MNIST_dataset_example-export 1_96: 280611712
+      MNIST_dataset_example-export 1_97: 1058986338
+      MNIST_dataset_example-export 1_98: -693223846
+      MNIST_dataset_example-export 1_99: 335720155
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
